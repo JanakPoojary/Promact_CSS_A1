@@ -6,7 +6,9 @@ body {
 h1 {
   font-family: sans-serif;
 }
-
+.left-button-wrapper{
+  float:left;
+}
 .left-button {
   list-style: none;
   color: #80007E;
